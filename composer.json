@@ -28,6 +28,9 @@
             "Smsglobal\\RestApiClient" : ""
         }
     },
+    "replace": {
+        "smsglobal/rest-api-client": "*"
+    },
     "repositories": [
         {
             "type": "vcs",

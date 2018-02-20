@@ -16,7 +16,7 @@ To install, add the dependency to your `composer.json` file:
 ```json
 {
     "require": {
-        "smsglobal/rest-api-client": "*"
+        "uwd/smsglobal-rest-api-v2": "*"
     }
 }
 ```
