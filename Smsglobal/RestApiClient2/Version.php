@@ -11,10 +11,10 @@ class Version
     /**
      * Which version of the REST API to use
      */
-    const REST_API_VERSION = 1;
+    const REST_API_VERSION = 2;
 
     /**
      * The version number of this library
      */
-    const VERSION = '1.0.0';
+    const VERSION = '1.0.1';
 }

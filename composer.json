@@ -1,14 +1,18 @@
 {
-    "name": "smsglobal/rest-api-client",
+    "name": "uwd/smsglobal-rest-api-v2",
     "type": "library",
-    "description": "Wrapper for SMSGlobal's REST API",
-    "keywords": [],
+    "description": "Wrapper for SMSGlobal's REST API v2",
+    "keywords": ["smsglobal", "sms", "api"],
     "homepage": "http://www.smsglobal.com/",
     "license": "MIT",
     "authors": [
         {
             "name": "SMSGlobal",
             "homepage": "http://www.smsglobal.com/"
+        },
+        {
+            "name": "Ulladulla Web Design",
+            "homepage": "https://ulladullawebdesign.com/"
         }
     ],
     "require": {
@@ -23,5 +27,11 @@
         "psr-0" : {
             "Smsglobal\\RestApiClient" : ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/angusm73/rest-api-client-php"
+        }
+    ]
 }
