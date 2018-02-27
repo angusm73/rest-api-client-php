@@ -1,8 +1,8 @@
 <?php
 namespace Smsglobal\RestApiClient;
 
-use Smsglobal\RestApiClient\Http\HeaderBag;
-use Smsglobal\RestApiClient\Http\Response\Adapter;
+use Smsglobal\RestApiClient2\Http\HeaderBag;
+use Smsglobal\RestApiClient2\Http\Response\Adapter;
 
 class AdapterStub implements Adapter
 {

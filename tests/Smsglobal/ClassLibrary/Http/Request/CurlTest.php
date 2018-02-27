@@ -1,14 +1,14 @@
 <?php
-namespace Smsglobal\RestApiClient\Http\Request;
+namespace Smsglobal\RestApiClient2\Http\Request;
 
-use Smsglobal\RestApiClient\Http\Request;
+use Smsglobal\RestApiClient2\Http\Request;
 
 class CurlTest extends \PHPUnit_Framework_TestCase
 {
     const ADAPTER = 'Smsglobal\\RestApiClient\\Http\\Request\\Curl';
 
     /**
-     * @covers Smsglobal\RestApiClient\Http\Request::__construct
+     * @covers Smsglobal\RestApiClient2\Http\Request::__construct
      */
     public function testConstructorSetsUrl()
     {
@@ -18,8 +18,8 @@ class CurlTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers Smsglobal\RestApiClient\Http\Request::setUrl
-     * @covers Smsglobal\RestApiClient\Http\Request::getUrl
+     * @covers Smsglobal\RestApiClient2\Http\Request::setUrl
+     * @covers Smsglobal\RestApiClient2\Http\Request::getUrl
      */
     public function testSetUrl()
     {

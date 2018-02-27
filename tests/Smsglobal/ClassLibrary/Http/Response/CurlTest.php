@@ -1,7 +1,7 @@
 <?php
-namespace Smsglobal\RestApiClient\Http;
+namespace Smsglobal\RestApiClient2\Http;
 
-use Smsglobal\RestApiClient\Http\Request;
+use Smsglobal\RestApiClient2\Http\Request;
 
 class CurlTest extends \PHPUnit_Framework_TestCase
 {

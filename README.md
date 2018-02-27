@@ -59,9 +59,9 @@ Running Unit Tests
 // Include the Composer autoloader or use your own PSR-0 autoloader
 require 'vendor/autoload.php';
 
-use Smsglobal\RestApiClient\ApiKey;
-use Smsglobal\RestApiClient\Resource\Sms;
-use Smsglobal\RestApiClient\RestApiClient;
+use Smsglobal\RestApiClient2\ApiKey;
+use Smsglobal\RestApiClient2\Resource\Sms;
+use Smsglobal\RestApiClient2\RestApiClient;
 
 // Get an API key from SMSGlobal and insert the key and secret
 $apiKey = new ApiKey('your-api-key', 'your-api-secret');

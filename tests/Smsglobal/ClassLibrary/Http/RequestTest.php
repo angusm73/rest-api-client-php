@@ -1,5 +1,5 @@
 <?php
-namespace Smsglobal\RestApiClient\Http;
+namespace Smsglobal\RestApiClient2\Http;
 
 class RequestTest extends \PHPUnit_Framework_TestCase
 {

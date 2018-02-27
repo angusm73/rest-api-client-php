@@ -25,7 +25,7 @@ class ApiKeyTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers Smsglobal\RestApiClient\ApiKey::getAuthorizationHeader
+     * @covers Smsglobal\RestApiClient2\ApiKey::getAuthorizationHeader
      */
     public function testGetAuthorizationHeader()
     {

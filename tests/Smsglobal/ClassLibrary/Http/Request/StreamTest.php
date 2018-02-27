@@ -1,7 +1,7 @@
 <?php
-namespace Smsglobal\RestApiClient\Http\Request;
+namespace Smsglobal\RestApiClient2\Http\Request;
 
-use Smsglobal\RestApiClient\Http\Request;
+use Smsglobal\RestApiClient2\Http\Request;
 
 class StreamTest extends \PHPUnit_Framework_TestCase
 {
