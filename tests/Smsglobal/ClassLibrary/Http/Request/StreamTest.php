@@ -5,7 +5,7 @@ use Smsglobal\RestApiClient2\Http\Request;
 
 class StreamTest extends \PHPUnit_Framework_TestCase
 {
-    const ADAPTER = 'Smsglobal\\RestApiClient\\Http\\Request\\Stream';
+    const ADAPTER = 'Smsglobal\\RestApiClient2\\Http\\Request\\Stream';
 
     public function testGet()
     {

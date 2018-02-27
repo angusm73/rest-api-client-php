@@ -5,7 +5,7 @@ use Smsglobal\RestApiClient2\Http\Request;
 
 class CurlTest extends \PHPUnit_Framework_TestCase
 {
-    const ADAPTER = 'Smsglobal\\RestApiClient\\Http\\Request\\Curl';
+    const ADAPTER = 'Smsglobal\\RestApiClient2\\Http\\Request\\Curl';
 
     public function testStatusCode()
     {
