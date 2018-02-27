@@ -1,10 +1,10 @@
 <?php
-namespace Smsglobal\RestApiClient;
+namespace Smsglobal\RestApiClient2;
 
 /**
  * An object representing your REST API key
  *
- * @package Smsglobal\RestApiClient
+ * @package Smsglobal\RestApiClient2
  */
 class ApiKey
 {

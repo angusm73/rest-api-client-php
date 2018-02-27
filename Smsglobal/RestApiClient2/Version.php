@@ -1,10 +1,10 @@
 <?php
-namespace Smsglobal\RestApiClient;
+namespace Smsglobal\RestApiClient2;
 
 /**
  * Version definitions
  *
- * @package Smsglobal\RestApiClient
+ * @package Smsglobal\RestApiClient2
  */
 class Version
 {

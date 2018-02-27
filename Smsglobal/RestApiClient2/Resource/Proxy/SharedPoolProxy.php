@@ -1,8 +1,8 @@
 <?php
-namespace Smsglobal\RestApiClient\Resource\Proxy;
+namespace Smsglobal\RestApiClient2\Resource\Proxy;
 
-use Smsglobal\RestApiClient\Resource\SharedPool;
-use Smsglobal\RestApiClient\RestApiClient;
+use Smsglobal\RestApiClient2\Resource\SharedPool;
+use Smsglobal\RestApiClient2\RestApiClient;
 
 class SharedPoolProxy extends SharedPool
 {

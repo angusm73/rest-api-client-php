@@ -24,8 +24,8 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0" : {
-            "Smsglobal\\RestApiClient2" : ""
+        "psr-4" : {
+            "Smsglobal\\RestApiClient2\\" : ""
         }
     },
     "replace": {

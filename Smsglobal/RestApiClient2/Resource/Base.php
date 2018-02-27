@@ -1,12 +1,12 @@
 <?php
-namespace Smsglobal\RestApiClient\Resource;
+namespace Smsglobal\RestApiClient2\Resource;
 
-use Smsglobal\RestApiClient\Version;
+use Smsglobal\RestApiClient2\Version;
 
 /**
  * Abstract base class for all resources
  *
- * @package Smsglobal\RestApiClient\Resource
+ * @package Smsglobal\RestApiClient2\Resource
  */
 abstract class Base
 {

@@ -1,10 +1,10 @@
 <?php
-namespace Smsglobal\RestApiClient\Resource;
+namespace Smsglobal\RestApiClient2\Resource;
 
 /**
  * A resource representing an SMSGlobal shared pool
  *
- * @package Smsglobal\RestApiClient\Resource
+ * @package Smsglobal\RestApiClient2\Resource
  */
 class SharedPool extends Base
 {

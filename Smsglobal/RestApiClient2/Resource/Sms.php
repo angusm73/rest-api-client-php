@@ -1,12 +1,12 @@
 <?php
-namespace Smsglobal\RestApiClient\Resource;
+namespace Smsglobal\RestApiClient2\Resource;
 
-use Smsglobal\RestApiClient\RestApiClient;
+use Smsglobal\RestApiClient2\RestApiClient;
 
 /**
  * A resource representing an SMSGlobal SMS
  *
- * @package Smsglobal\RestApiClient\Resource
+ * @package Smsglobal\RestApiClient2\Resource
  */
 class Sms extends Base
 {

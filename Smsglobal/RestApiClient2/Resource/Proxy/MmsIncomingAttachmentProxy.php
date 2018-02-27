@@ -1,8 +1,8 @@
 <?php
-namespace Smsglobal\RestApiClient\Resource\Proxy;
+namespace Smsglobal\RestApiClient2\Resource\Proxy;
 
-use Smsglobal\RestApiClient\Resource\MmsIncomingAttachment;
-use Smsglobal\RestApiClient\RestApiClient;
+use Smsglobal\RestApiClient2\Resource\MmsIncomingAttachment;
+use Smsglobal\RestApiClient2\RestApiClient;
 
 class MmsIncomingAttachmentProxy extends MmsIncomingAttachment
 {

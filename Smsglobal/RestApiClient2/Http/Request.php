@@ -1,12 +1,12 @@
 <?php
-namespace Smsglobal\RestApiClient\Http;
+namespace Smsglobal\RestApiClient2\Http;
 
-use Smsglobal\RestApiClient\Http\Response\Adapter;
+use Smsglobal\RestApiClient2\Http\Response\Adapter;
 
 /**
  * A class for dealing with HTTP requests and responses
  *
- * @package Smsglobal\RestApiClient\Http
+ * @package Smsglobal\RestApiClient2\Http
  */
 class Request
 {

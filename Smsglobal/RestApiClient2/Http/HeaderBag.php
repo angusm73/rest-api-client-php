@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Smsglobal\RestApiClient\Http;
+namespace Smsglobal\RestApiClient2\Http;
 
 /**
  * HeaderBag is a container for HTTP headers.
  *
  * @author Fabien Potencier <fabien@symfony.com>
- * @package Smsglobal\RestApiClient\Http
+ * @package Smsglobal\RestApiClient2\Http
  */
 class HeaderBag implements \IteratorAggregate, \Countable
 {

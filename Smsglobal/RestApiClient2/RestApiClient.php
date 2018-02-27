@@ -1,15 +1,15 @@
 <?php
-namespace Smsglobal\RestApiClient;
+namespace Smsglobal\RestApiClient2;
 
-use Smsglobal\RestApiClient\Http\Request;
-use Smsglobal\RestApiClient\Http\Response\Adapter;
-use Smsglobal\RestApiClient\Resource\Base;
+use Smsglobal\RestApiClient2\Http\Request;
+use Smsglobal\RestApiClient2\Http\Response\Adapter;
+use Smsglobal\RestApiClient2\Resource\Base;
 
 /**
  * Acts as an ORM of sorts for the REST API. Allows fetching, saving and
  * deleting resource objects
  *
- * @package Smsglobal\RestApiClient
+ * @package Smsglobal\RestApiClient2
  */
 class RestApiClient
 {
