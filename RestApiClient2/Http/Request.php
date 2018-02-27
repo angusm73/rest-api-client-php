@@ -10,7 +10,7 @@ use Smsglobal\RestApiClient2\Http\Response\Adapter;
  */
 class Request
 {
-    const DEFAULT_ADAPTER = 'Smsglobal\\RestApiClient\\Http\\Request\\Curl';
+    const DEFAULT_ADAPTER = 'Smsglobal\\RestApiClient2\\Http\\Request\\Curl';
 
     /**
      * Class name of the adapter to use
